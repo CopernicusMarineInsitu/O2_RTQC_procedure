@@ -8,7 +8,7 @@ Oxigen Real Time Quality Check procedure for In Situ TAC observational products 
 
 ## Copyright
 
-Copyright (c) 2017 ICTS SOCIB - Servei d'observació i predicció costaner de les Illes Balears.
+Copyright (c) 2020 CMEMS In Situ TAC - Copernicus Marine Service IN Situ Thematic Assembly Center.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
