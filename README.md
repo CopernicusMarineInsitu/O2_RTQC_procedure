@@ -4,9 +4,7 @@ Oxigen Real Time Quality Check procedure for In Situ TAC observational products 
 
 ## Authors
 
-* **Jan Even Nilsen** - *See also* - [PurpleBooth](https://github.com/evenrev1/evenQC)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Jan Even Nilsen** - *See also* - [landtest](https://github.com/evenrev1/evenQC)
 
 ## Copyright
 
