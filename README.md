@@ -1,6 +1,6 @@
-# O2 RTQC procedure
+fte# O2 RTQC procedure
 
-Oxigen Real Time Quality Check procedure for In Situ TAC observational products delivered trought the Copernicus Marine Service. Read the Technical Note (TechnicalNote_O2RTQC.docx) for further clarification.
+Oxigen Real Time Quality Check procedure for In Situ TAC observational products delivered trought the Copernicus Marine Service. Read the Technical Note ([TechnicalNote_O2RTQC_1.1.pdf](https://github.com/CopernicusMarineInsitu/O2_RTQC_procedure/blob/master/TechnicalNote_O2RTQC_1.1.pdf)) for further clarification.
 
 ## Authors
 
